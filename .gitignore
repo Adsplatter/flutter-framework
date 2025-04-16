@@ -16,6 +16,7 @@ migrate_working_dir/
 /linux/
 /web/
 pubspec.lock
+.metadata
 
 # IntelliJ related
 *.iml
