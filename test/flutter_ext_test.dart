@@ -33,7 +33,7 @@ void main() {
       expect(testString.inCaps, 'Hello world');
       expect(testString.uppercaseFirst, 'Hello world');
       expect(testString.allInCaps, 'HELLO WORLD');
-      expect(testString.capitalizeFirstOfEach, 'HELLO WORLD');
+      expect(testString.capitalizeFirstOfEach, 'Hello World');
     });
   });
 }
