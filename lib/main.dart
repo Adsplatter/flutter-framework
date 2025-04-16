@@ -1,6 +1,16 @@
+// ------------------------------------------------------
+// NOTE: This is a temporary placeholder main.dart file.
+// It will be removed or replaced as the framework develops.
+// ------------------------------------------------------
+
 import 'package:flutter/material.dart';
 
 void main() {
+  assert(() {
+    print('⚠️ WARNING: main.dart is not meant for production use.');
+    return true;
+  }());
+
   runApp(const MyApp());
 }
 
